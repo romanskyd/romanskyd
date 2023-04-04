@@ -2,6 +2,11 @@
 
 I am an experienced front-end developer with a passion for building engaging and user-friendly websites. With four years of professional experience, I have honed my skills in JavaScript, HTML, CSS and related frameworks and libraries. I am dedicated to staying up-to-date with the latest trends and best practices in front-end development, and I enjoy collaborating with colleagues to create innovative solutions for clients. My strengths include strong attention to detail, excellent problem-solving abilities, and a commitment to delivering high-quality work on time and on budget.
 
+## Socials
+
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/romanskyd)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/romanskyd/)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/dmitry.romansky)
 ## Languages and Tools:
 ![Javascript](https://img.shields.io/badge/-Javascript-090909?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-Html5-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -28,9 +33,3 @@ I am an experienced front-end developer with a passion for building engaging and
 ![WebStorm](https://img.shields.io/badge/-WebStorm-090909?style=for-the-badge&logo=webstorm&logoColor=#000000)
 ![VSCode](https://img.shields.io/badge/-VSCode-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-090909?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-## Socials
-
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/romanskyd)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/romanskyd/)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1877F2)](https://www.facebook.com/dmitry.romansky)
